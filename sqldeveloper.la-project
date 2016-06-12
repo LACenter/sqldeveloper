@@ -1,0 +1,11 @@
+language=Pascal
+type= UI (Advanced User Interface)
+launcherid=LA-5779545179252997420827008
+macbundle=0
+macbundle-icon=
+publish-oncompile=1
+targets=
+mainfile=sqldeveloper.pas
+20file=mainform.pas
+19file=globals.pas
+20file=regdb.pas
